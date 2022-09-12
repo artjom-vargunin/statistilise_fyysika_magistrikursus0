@@ -1,0 +1,2 @@
+# Mittetasakaaluliste (pöördumatute) protsesside statistiline termodünaamika
+Jõuame kursuse põhiosa juurde, kus hakkame kirjeldama mittetasakaalulisi protsesse. Alustame pöördumatu protsesside statistilisest termodünaamikast.
